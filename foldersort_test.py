@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # Filename: foldersort.py
+# Hello world
 
 """FolderSort is a simple application meant to organize a folder into subfolder according to their extension, made using Python and PyQt5"""
 
